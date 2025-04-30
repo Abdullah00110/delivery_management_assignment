@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'delivery_app',
+    'delivery_app',  # Your custom app for delivery management
 ]
 
 MIDDLEWARE = [
